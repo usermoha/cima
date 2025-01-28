@@ -10,8 +10,8 @@ $Re_skinning_Grp_uri = 'https://www.re-skinning.com/cpa/landing6'; // Website Li
 $Re_skinning_Grp_wname = 'Movies'; // Website  Title
 $Re_skinning_Grp_descrip = 'Free Movies'; // Website Description
 
-$Re_skinning_Grp_adbluemedia_it = '1444147';  // AdBlueMedia IT
-$Re_skinning_Grp_adbluemedia_key = 'e619c';  // AdBlueMedia KEY
+$Re_skinning_Grp_adbluemedia_it = '4422152';  // AdBlueMedia IT
+$Re_skinning_Grp_adbluemedia_key = 'bce72';  // AdBlueMedia KEY
 
 $Re_skinning_Grp_ImdbApi = 'b7cd3340a794e5a2f35e3abb820b497f'; // Themoviedb API
 
